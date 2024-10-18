@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gova-ken
+- 👋 Hi, I’m @gova
 - 👀 I’m interested in , **enterprise architecture, Salesforce innovation, and scalable solutions.**
 - 🌱 I’m currently learning ,**advanced Salesforce Lightning components and AI integration.**
 - 💞️ I’m looking to collaborate on , **Salesforce implementation projects, architecture reviews, and tech workshops.**
